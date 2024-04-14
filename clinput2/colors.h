@@ -1,0 +1,8 @@
+#define CLI_RED     "\x1B[31m"
+#define CLI_GREEN   "\x1B[32m"
+#define CLI_YELLOW  "\x1B[33m"
+#define CLI_BLUE    "\x1B[34m"
+#define CLI_MAGENTA "\x1B[35m"
+#define CLI_CYAN    "\x1B[36m"
+#define CLI_WHITE   "\x1B[37m"
+#define RESET       "\x1B[0m"
